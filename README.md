@@ -1,0 +1,2 @@
+# Gitfirst
+learning the git 
